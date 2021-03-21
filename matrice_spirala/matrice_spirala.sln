@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrice_spirala", "matrice_spirala\matrice_spirala.csproj", "{23744840-6CC5-4CF5-9943-5DFCE867D928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23744840-6CC5-4CF5-9943-5DFCE867D928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23744840-6CC5-4CF5-9943-5DFCE867D928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23744840-6CC5-4CF5-9943-5DFCE867D928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23744840-6CC5-4CF5-9943-5DFCE867D928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EF28D24-6435-49BC-B1DE-F3E99ADA31C8}
+	EndGlobalSection
+EndGlobal
