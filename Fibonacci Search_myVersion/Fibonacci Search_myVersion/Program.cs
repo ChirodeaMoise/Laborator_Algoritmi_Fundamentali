@@ -8,7 +8,7 @@ namespace Fibonacci_Search_myVersion
             int p;
             float a = 0, b = 1, x, i;
             Console.WriteLine("Introduceti Pozitia: ");
-            p = Convert.ToInt32(Console.ReadLine());
+            p =int.Parse(Console.ReadLine());
             int[] v = new int[p]; 
             if (a == 0 && b == 1)
             {
