@@ -12,7 +12,7 @@ namespace N_Queen_Problem_myVersion
         {
             if (k >= n)
             {
-                if (isSol(sol)) //Trebuie sa verific daca se ating pe diagonala
+                if (isSol(sol)) //Trebuie sa verific daca se ating pe diagonala.
                 {
                     int[,] matrix = new int[n, n];
                     for (int i = 0; i < n; i++)
