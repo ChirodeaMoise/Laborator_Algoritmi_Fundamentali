@@ -63,7 +63,7 @@ namespace N_Queen_Problem_myVersion
 
         static void Main(string[] args)
         {
-            int k = 0, n = 5;
+            int k = 0, n = 4;
             int[] sol = new int[n];
             bool[] fol = new bool[n];
             bk(k, n, sol, fol);
